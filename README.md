@@ -1,3 +1,3 @@
 # caprover-deploy
 
-Docker container for the caprover deployment.
+Docker Container Image for the caprover deployment.
